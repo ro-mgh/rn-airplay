@@ -1,3 +1,5 @@
+This is a fork from library https://github.com/mantaskaveckas/rn-airplay.
+
 # React Native Airplay
 
 ![Airplay](https://i0.wp.com/teachmeios.com/wp-content/uploads/2014/02/AirPlay-Logo-with-Text.png)
